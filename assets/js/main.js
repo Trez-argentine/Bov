@@ -57,11 +57,11 @@ if(form){
    function closeGate(){ bd.style.display='none'; bd.remove(); }  
   // ✅ Redirect when "Yes" is clicked
   bd.querySelector('#age-yes').addEventListener('click', function(){
-    window.location.href = "https://track.brentara.site/cf/r/6a29049b6dad25001296fe2f?gclid=%7Bgclid%7D&wbraid=%7Bwbraid%7D&gbraid=%7Bgbraid%7D&campaignid=%7Bcampaignid%7D&adgroupid=%7Badgroupid%7D&loc_physicall_ms=%7Bloc_physical_ms%7D&loc_interest_ms=%7Bloc_interest_ms%7D&matchtype=%7Bmatchtype%7D&network=%7Bnetwork%7D&creative=%7Bcreative%7D&keyword=%7Bkeyword%7D&placement=%7Bplacement%7D&targetid=%7Btargetid%7D"; // change to your target page
+    window.location.href = "https://orivexa.site/"; // change to your target page
   });
  
   // ✅ Just close modal when "No" is clicked
   bd.querySelector('#age-no').addEventListener('click', function(){
-    window.location.href = "https://track.brentara.site/cf/r/6a29049b6dad25001296fe2f?gclid=%7Bgclid%7D&wbraid=%7Bwbraid%7D&gbraid=%7Bgbraid%7D&campaignid=%7Bcampaignid%7D&adgroupid=%7Badgroupid%7D&loc_physicall_ms=%7Bloc_physical_ms%7D&loc_interest_ms=%7Bloc_interest_ms%7D&matchtype=%7Bmatchtype%7D&network=%7Bnetwork%7D&creative=%7Bcreative%7D&keyword=%7Bkeyword%7D&placement=%7Bplacement%7D&targetid=%7Btargetid%7D"; // change to your target page
+    window.location.href = "https://orivexa.site/"; // change to your target page
   });
 })();
